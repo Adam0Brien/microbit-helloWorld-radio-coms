@@ -1,3 +1,8 @@
+Make sure to set the baud rate to 115200 on putty!!
+
+
+
+
 
 > Open this page at [https://adam0brien.github.io/microbit-helloworld-radio-coms/](https://adam0brien.github.io/microbit-helloworld-radio-coms/)
 
